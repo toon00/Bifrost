@@ -19,11 +19,11 @@
     "GpioSwitcherWebApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/pins",
       "environmentVariables": {
-          "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:5002"
+      "applicationUrl": "http://localhost:5000"
     }
   }
 }
